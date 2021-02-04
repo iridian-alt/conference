@@ -1,0 +1,20 @@
+{
+  "badges": [
+    {
+      "firstName": "Snoppy",
+      "lastName": "Douglas",
+      "jobTitle": "PHP Developer",
+      "email": "example@mail.com",
+      "twitter": "none1",
+      "id": 2
+    },
+    {
+      "firstName": "Georgina",
+      "lastName": "Shakira",
+      "jobTitle": "Human Resources",
+      "email": "example@mail.com",
+      "twitter": "none3",
+      "id": 3
+    }
+  ]
+}
